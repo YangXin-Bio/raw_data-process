@@ -18,7 +18,7 @@
 ##### -q --quiet： 安静模式
 ##### 
 ### 运行命令
->     fastqc -t 4 -o LN/fastqc sample1_1.fq sample1_2.fq
+>     fastqc -t 4 -o fastqc sample1_1.fq sample1_2.fq
 
 ### fastqc结果查看
 #### 1. 产生两个结果文件：
